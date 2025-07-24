@@ -1,0 +1,8 @@
+.DS_Store
+
+# Ignore all tar.gz files in data folder
+data/*.tar.gz
+
+# Ignore entire data folder
+data/
+
